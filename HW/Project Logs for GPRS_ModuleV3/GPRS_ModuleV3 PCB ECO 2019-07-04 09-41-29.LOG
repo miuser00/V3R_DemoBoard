@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC_USB Pin=JP1-1
+Removed Pin From Net: NetName=VCC_PIN Pin=JP1-2
+Removed Pin From Net: NetName=ADC Pin=JP1-3
+Removed Pin From Net: NetName=GPIO31 Pin=JP1-4
+Removed Pin From Net: NetName=GPIO6 Pin=JP1-5
+Removed Pin From Net: NetName=GPIO3 Pin=JP1-6
+Removed Pin From Net: NetName=GPIO2 Pin=JP1-7
+Removed Pin From Net: NetName=GND Pin=JP1-8
+Change Component Footprint: Designator=JP1 Old Footprint=HDR-1X8 New Footprint=HDR-1X9
+Change Component Comment : Designator=JP1 Old Comment=HDR-1X8 New Comment=HDR-1X9
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=VCC_USB Pin=JP1-2
+Added Pin To Net: NetName=VCC_PIN Pin=JP1-3
+Added Pin To Net: NetName=ADC Pin=JP1-4
+Added Pin To Net: NetName=GPIO31 Pin=JP1-5
+Added Pin To Net: NetName=GPIO6 Pin=JP1-6
+Added Pin To Net: NetName=GPIO3 Pin=JP1-7
+Added Pin To Net: NetName=GPIO2 Pin=JP1-8
+Added Pin To Net: NetName=GPIO7 Pin=JP1-9
+Added Pin To Net: NetName=GPIO7 Pin=U801-14
+Added Net: Name=GPIO7

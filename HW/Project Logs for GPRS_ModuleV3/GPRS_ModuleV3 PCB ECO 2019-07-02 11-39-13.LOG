@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=D402-2
+Removed Pin From Net: NetName=GND Pin=JP1-8
+Removed Member From Class: ClassName=GPRS_ModuleV21 Member=D402
+Added Pin To Net: NetName=VCC Pin=D401-2
+Added Pin To Net: NetName=VCC Pin=D403-2
+Added Pin To Net: NetName=VCC_USB Pin=JP1-8
+Change Class Name : Old Net Name=GPRS_ModuleV21 New Net Name=GPRS_ModuleV3
+Added Member To Class: ClassName=GPRS_ModuleV3 Member=Component U1 CH340N
+Added Member To Class: ClassName=GPRS_ModuleV3 Member=Component U801 AIR208
